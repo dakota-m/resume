@@ -296,7 +296,7 @@
         
         \vspace{3mm}
        
-	 {\large \textbf{Programming}} 
+	 {\large \textbf{Skills}} 
 
 		 \programming
       
